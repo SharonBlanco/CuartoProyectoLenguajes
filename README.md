@@ -1,4 +1,4 @@
-markdown# Plataforma de Juegos — TEC San Carlos
+Plataforma de Juegos — TEC San Carlos
 
 Plataforma modular de juegos en Java con interfaz estilo pixel-art retro. Los juegos se cargan como modulos JAR independientes y se detectan automaticamente sin reiniciar la aplicacion.
 
