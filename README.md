@@ -130,4 +130,4 @@ Los puntajes se guardan en `scores.dat` en el directorio de trabajo. El top 3 po
 
 ## Autores
 
-> Instituto Tecnologico de Costa Rica — Sede San Carlos
+> Sharon Blanco Piedra
