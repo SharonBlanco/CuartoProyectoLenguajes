@@ -1,0 +1,15 @@
+ui/ScoresPanel.class
+core/ScoreManager.class
+ui/MainFrame.class
+core/Plataforma.class
+core/Loader.class
+core/GameObserver.class
+ui/MenuPanel$1.class
+core/JuegoPlugin.class
+core/JuegosWatcher.class
+ui/MenuPanel$ScanlinesPanel.class
+ui/MenuPanel$2.class
+ui/PixelBorder.class
+core/GameManager.class
+ui/MainFrame$1.class
+ui/MenuPanel.class
