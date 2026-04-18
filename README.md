@@ -2,21 +2,6 @@ markdown# Plataforma de Juegos — TEC San Carlos
 
 Plataforma modular de juegos en Java con interfaz estilo pixel-art retro. Los juegos se cargan como modulos JAR independientes y se detectan automaticamente sin reiniciar la aplicacion.
 
----
-
-## Estructura del repositorio
-/
-├── Platforma/          # Proyecto principal (NetBeans/Maven)
-│   ├── src/main/java/
-│   │   ├── core/       # Interfaces, gestor, loader, watcher
-│   │   └── ui/         # Interfaz grafica
-│   └── juegos/         # Carpeta donde van los JARs
-│
-├── TicTacToe/          # Juego 1
-├── Ahorcado/           # Juego 2
-└── Snake/              # Juego 3
-
----
 
 ## Como correr el proyecto
 
